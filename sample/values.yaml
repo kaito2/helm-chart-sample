@@ -11,8 +11,8 @@ image:
   tag: ""
 
 imagePullSecrets: []
-nameOverride: ""
-fullnameOverride: ""
+nameOverride: "my-sample-app"
+fullnameOverride: "my-sample"
 
 serviceAccount:
   # Specifies whether a service account should be created
